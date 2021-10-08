@@ -1,0 +1,73 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{2}{x2-1000}{QQ2-2-1}{Editorial}}{2}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{2}{Q1-2-2}{}{Editorial}}{2}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{3}{x3-2000}{QQ2-3-3}{Palabras del presidente}}{5}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{3}{Q1-3-4}{}{Palabras del presidente}}{5}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{4}{x4-30001}{QQ2-4-5}{\textit  {Marzo, mes de las Matem\'aticas}: La apuesta por la divulgaci\'on matem\'atica cooperativa}}{8}\relax 
+\doTocEntry\tocsubsection{1.1}{\csname a:TocLink\endcsname{4}{x4-40001.1}{QQ2-4-6}{\href  {http://marzomates.webs.ull.es/exposicion/}{Exposici\'on <<Matem\'aticas para un mundo mejor>>}}}{10}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-4002}{}{\numberline {1}{\ignorespaces Cartel de la exposici\'on\relax }}}{10}\relax 
+\doTocEntry\tocsubsection{1.2}{\csname a:TocLink\endcsname{4}{x4-50001.2}{QQ2-4-7}{\IeC {\textquestiondown }Una exposici\'on de Matem\'aticas?}}{10}\relax 
+\doTocEntry\tocsubsection{1.3}{\csname a:TocLink\endcsname{4}{x4-60001.3}{QQ2-4-8}{P\'{u}blico al que se dirige}}{10}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-6002}{}{\numberline {2}{\ignorespaces Exposici\'on en el Museo de la Ciencia de Valladolid\relax }}}{13}\relax 
+\doTocEntry\tocsubsection{1.4}{\csname a:TocLink\endcsname{4}{x4-70001.4}{QQ2-4-9}{Contenidos}}{14}\relax 
+\doTocEntry\tocsubsection{1.5}{\csname a:TocLink\endcsname{4}{x4-80001.5}{QQ2-4-10}{Una exposici\'{o}n virtual }}{14}\relax 
+\doTocEntry\tocsubsection{1.6}{\csname a:TocLink\endcsname{4}{x4-90001.6}{QQ2-4-11}{Los autores }}{14}\relax 
+\doTocEntry\tocsubsection{1.7}{\csname a:TocLink\endcsname{4}{x4-100001.7}{QQ2-4-12}{Tarjetas matem\'{a}ticas }}{17}\relax 
+\doTocEntry\tocsubsection{1.8}{\csname a:TocLink\endcsname{4}{x4-110001.8}{QQ2-4-13}{\href  {http://marzomates.webs.ull.es/tarjetas-matematicas-literatura/}{Tarjetas Matem\'{a}ticas $+$ Literatura}}}{17}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-11002}{}{\numberline {3}{\ignorespaces Matem\'aticas $+$ Literatura. Tarjeta \textit  {Las matem\'{a}ticas \IeC {\protect \textquestiondown }se inventan o se descubren?}\relax }}}{20}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-11004}{}{\numberline {4}{\ignorespaces Librer\IeC {\protect \'\i }a en Bilbao con las tarjetas\relax }}}{21}\relax 
+\doTocEntry\tocsubsection{1.9}{\csname a:TocLink\endcsname{4}{x4-120001.9}{QQ2-4-14}{\href  {http://marzomates.webs.ull.es/tarjetas-pasatiempos-matematicos/}{Tarjetas Pasatiempos matem\'{a}ticos}}}{21}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-12002}{}{\numberline {5}{\ignorespaces Pasatiempos matem\'aticos. Tarjeta \textit  {Aqu\'{\i } hay gato encerrado}\relax }}}{23}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-12004}{}{\numberline {6}{\ignorespaces Pasatiempos matem\'aticos en las pantallas del transporte p\'ublico de Tenerife.\relax }}}{26}\relax 
+\doTocEntry\tocsubsection{1.10}{\csname a:TocLink\endcsname{4}{x4-130001.10}{QQ2-4-15}{\href  {http://marzomates.webs.ull.es/tarjetas-sabias-que/}{Tarjetas ?`Sab\'{\i }as que?}}}{27}\relax 
+\doTocEntry\tocsubsection{1.11}{\csname a:TocLink\endcsname{4}{x4-140001.11}{QQ2-4-16}{Papiroflexia }}{28}\relax 
+\doTocEntry\tocsubsection{1.12}{\csname a:TocLink\endcsname{4}{x4-150001.12}{QQ2-4-17}{\href  {http://marzomates.webs.ull.es/papiroflexia/}{Talleres de papiroflexia matem\'{a}tica}}}{28}\relax 
+\doTocEntry\tocsubsection{1.13}{\csname a:TocLink\endcsname{4}{x4-160001.13}{QQ2-4-18}{\href  {http://marzomates.webs.ull.es/papiroproblemas/}{Papiroproblemas}}}{32}\relax 
+\doTocEntry\tocsubsection{1.14}{\csname a:TocLink\endcsname{4}{x4-170001.14}{QQ2-4-19}{\href  {http://marzomates.webs.ull.es/material-3d/}{Material 3D} y \href  {http://marzomates.webs.ull.es/mathcitymap/}{MathCityMap}}}{32}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-17002}{}{\numberline {7}{\ignorespaces Oloide creado como envolvente convexa de una estructura de cartulina con hilos. Fuente: Wikipedia\relax }}}{32}\relax 
+\doTocEntry\tocsubsection{1.15}{\csname a:TocLink\endcsname{4}{x4-180001.15}{QQ2-4-20}{\href  {http://marzomates.webs.ull.es/escape-rooms/}{Escape Rooms}}}{34}\relax 
+\doTocEntry\tocsubsection{1.16}{\csname a:TocLink\endcsname{4}{x4-190001.16}{QQ2-4-21}{Sostenibilidad y matem\'{a}ticas }}{35}\relax 
+\doTocEntry\tocsubsubsection{1.16.1}{\csname a:TocLink\endcsname{4}{x4-200001.16.1}{QQ2-4-22}{Consumo de agua}}{35}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{4}{x4-210001.16.1}{QQ2-4-23}{\href  {https://view.genial.ly/604fb1fcd5eff00d6ee54dc0/presentation-dimalitros-y-sus-aquaventuras}{Dimalitros: audiolibro ?`Pueden las matem\'{a}ticas alertarnos del consumo de agua?}}}{35}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{4}{x4-220001.16.1}{QQ2-4-24}{\href  {https://view.genial.ly/5fe249466157fe0d691918c0/presentation-matematicas-y-agua}{Sostenibilidad y agua}}}{38}\relax 
+\doTocEntry\tocsubsubsection{1.16.2}{\csname a:TocLink\endcsname{4}{x4-230001.16.2}{QQ2-4-25}{\href  {http://marzomates.webs.ull.es/matematicas-y-sostenibilidad/}{Tratamiento de residuos}}}{38}\relax 
+\doTocEntry\tocsubsection{1.17}{\csname a:TocLink\endcsname{4}{x4-240001.17}{QQ2-4-26}{Exposici\'{o}n de fotograf\'{\i }a y concurso escolar}}{39}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{4}{x4-24002}{}{\numberline {8}{\ignorespaces Exposici\'on <<Geometr\IeC {\protect \'\i }a Natural>> en el metro de Bilbao\relax }}}{41}\relax 
+\doTocEntry\tocsubsection{1.18}{\csname a:TocLink\endcsname{4}{x4-250001.18}{QQ2-4-27}{Conferencias, mon\'{o}logos y talleres}}{42}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{5}{x5-260002}{QQ2-5-28}{Art\IeC {\'\i }culo de la Comisi\'on Cient\IeC {\'\i }fica de la RSME sobre el factor de impacto de las revistas en los procesos de evaluaci\'on}}{47}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{6}{x6-270003}{QQ2-6-29}{\href  {https://cedya2020.es}{XXVI CEDYA / XVI CMA Gij\'on}}}{49}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-27002}{}{\numberline {9}{\ignorespaces Apertura del XXVI CEDYA/XVI CMA.\relax }}}{52}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-27022}{}{\numberline {10}{\ignorespaces Equipo de voluntarios del XXVI CEDYA/XVI CMA.\relax }}}{56}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{6}{x6-27024}{}{\numberline {11}{\ignorespaces Minisimposio \textit  {Tribute to Francisco Javier Sayas}.\relax }}}{59}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{7}{x7-280004}{QQ2-7-30}{Obituario: Ireneo Peral Alonso\tmspace  -\thinmuskip {.1667em}\footnotemark {}}}{62}\relax 
+\doTocEntry\tocsubsection{4.1}{\csname a:TocLink\endcsname{7}{x7-290004.1}{QQ2-7-31}{Estelas en el mar: recordando a Ireneo Peral (1946--2021)}}{62}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{7}{x7-29002}{}{\numberline {12}{\ignorespaces Ireneo trabajando en la UAM.\relax }}}{64}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{7}{x7-29004}{}{\numberline {13}{\ignorespaces Ireneo y Magdalena a los pies de la Alhambra en 2017, con sus hijas, Irene y Magdalena, yernos, David y Carlos, y nietos, Iria y \'Oscar.\relax }}}{67}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{7}{x7-300004.1}{QQ2-7-32}{Obra cient\'ifica}}{68}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{7}{x7-30003}{}{\numberline {14}{\ignorespaces Ireneo y algunos de sus alumnos de doctorado. De iquierda a derecha, L. Montoro, B. Abdellaoui, A. Primo, E. Colorado, Ireneo, F. Charro, J.A. Aguilar y J. Garc\'ia Azorero.\relax }}}{75}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{7}{x7-30007}{}{\numberline {15}{\ignorespaces Cartel del congreso en su honor celebrado en Salamanca en 2007.\relax }}}{80}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{7}{x7-30010}{}{\numberline {16}{\ignorespaces Ireneo con sus alumnas de doctorado A. Primo, Bego\~na Barrios, Susana Merch\'an y Mar\'ia Medina.\relax }}}{84}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{8}{x8-310004.1}{QQ2-8-33}{Referencias}}{88}\relax 
+\doTocEntry\tocsubsection{4.2}{\csname a:TocLink\endcsname{8}{x8-320004.2}{QQ2-8-34}{Ireneo Peral y el renacer de las matem\'aticas en Espa\~na}}{91}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{8}{x8-32003}{}{\numberline {17}{\ignorespaces Ireneo y Magdalena con sus nietos.\relax }}}{96}\relax 
+\doTocEntry\tocsubsection{4.3}{\csname a:TocLink\endcsname{8}{x8-330004.3}{QQ2-8-35}{Ireneo Peral en la memoria}}{97}\relax 
+\doTocEntry\tocsubsection{4.4}{\csname a:TocLink\endcsname{8}{x8-340004.4}{QQ2-8-36}{\relax \special {t4ht=&#x00AB;}Per Ireneo\relax \special {t4ht=&#x00BB;}}}{98}\relax 
+\doTocEntry\tocsubsection{4.5}{\csname a:TocLink\endcsname{8}{x8-350004.5}{QQ2-8-37}{Ireneo Peral: mi hermano mayor}}{100}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{8}{x8-35002}{}{\numberline {18}{\ignorespaces Ireneo y Magdalena.\relax }}}{103}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{9}{x9-360005}{QQ2-9-38}{Anuncios}}{107}\relax 
+\doTocEntry\tocsubsection{5.1}{\csname a:TocLink\endcsname{9}{x9-370005.1}{QQ2-9-39}{Journ\'ee scientifique du groupe SMAI-SIGMA, Mardi 19 Octobre 2021}}{107}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{9}{x9-380005.1}{QQ2-9-40}{Programme (expos\'es en fran\c cais)}}{107}\relax 
+\doTocEntry\tocsubsection{5.2}{\csname a:TocLink\endcsname{9}{x9-390005.2}{QQ2-9-41}{New Bridges between Mathematics and Data Science}}{109}\relax 
+\doTocEntry\tocsubsection{5.3}{\csname a:TocLink\endcsname{9}{x9-400005.3}{QQ2-9-42}{Non-Linear Analysis and Control Theory}}{111}\relax 
+\doTocEntry\tocsubsection{5.4}{\csname a:TocLink\endcsname{9}{x9-410005.4}{QQ2-9-43}{Four full professorships - Open topic in Data Science}}{111}\relax 
+\doTocEntry\tocsubsection{5.5}{\csname a:TocLink\endcsname{9}{x9-420005.5}{QQ2-9-44}{27th Edition of the International Conference on Transport Theory}}{113}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{9}{x9-430005.5}{QQ2-9-45}{Contacts}}{113}\relax 
+\doTocEntry\tocsubsection{5.6}{\csname a:TocLink\endcsname{9}{x9-440005.6}{QQ2-9-46}{Actividades del Instituto de Matem\'aticas de la Universidad de Sevilla, IMUS}}{114}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{9}{x9-450005.6}{QQ2-9-47}{Entradas en el blog}}{114}\relax 
+\doTocEntry\tocsubsection{5.7}{\csname a:TocLink\endcsname{9}{x9-460005.7}{QQ2-9-48}{Basque Center for Applied Mathematics: Severo Ochoa Course program}}{116}\relax 
+\doTocEntry\tocsubsubsection{5.7.1}{\csname a:TocLink\endcsname{9}{x9-470005.7.1}{QQ2-9-49}{Course 1}}{116}\relax 
+\doTocEntry\tocsubsubsection{5.7.2}{\csname a:TocLink\endcsname{9}{x9-480005.7.2}{QQ2-9-50}{Course 2}}{116}\relax 
+\doTocEntry\tocsubsubsection{5.7.3}{\csname a:TocLink\endcsname{9}{x9-490005.7.3}{QQ2-9-51}{Course 3}}{116}\relax 
+\doTocEntry\tocsubsection{5.8}{\csname a:TocLink\endcsname{9}{x9-500005.8}{QQ2-9-52}{Nuevo volumen de la serie SEMA-SIMAI: \textit  {Lecture Notes of the XVIII Jacques-Louis Lions Spanish-French School}}}{118}\relax 
+\doTocEntry\tocsection{6}{\csname a:TocLink\endcsname{10}{x10-510006}{QQ2-10-53}{SEMA \textit  {Journal}}}{120}\relax 
+\doTocEntry\tocsection{7}{\csname a:TocLink\endcsname{11}{x11-520007}{QQ2-11-54}{Socios institucionales}}{124}\relax 

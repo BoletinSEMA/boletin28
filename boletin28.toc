@@ -1,0 +1,54 @@
+\babel@toc {french}{}
+\babel@toc {spanish}{}
+\contentsline {section}{Editorial}{3}{section*.2}%
+\contentsline {section}{Palabras del presidente}{5}{section*.3}%
+\contentsline {section}{\numberline {1}\textit {Marzo, mes de las Matem\'aticas}: La apuesta por la divulgaci\'on matem\'atica cooperativa}{7}{section.1}%
+\contentsline {subsection}{\numberline {1.1}\href {http://marzomates.webs.ull.es/exposicion/}{Exposici\'on <<Matem\'aticas para un mundo mejor>>}}{8}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}\IeC {\textquestiondown }Una exposici\'on de Matem\'aticas?}{8}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}P\'{u}blico al que se dirige}{9}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Contenidos}{9}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Una exposici\'{o}n virtual }{10}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Los autores }{10}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Tarjetas matem\'{a}ticas }{12}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}\href {http://marzomates.webs.ull.es/tarjetas-matematicas-literatura/}{Tarjetas Matem\'{a}ticas $+$ Literatura}}{12}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}\href {http://marzomates.webs.ull.es/tarjetas-pasatiempos-matematicos/}{Tarjetas Pasatiempos matem\'{a}ticos}}{14}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}\href {http://marzomates.webs.ull.es/tarjetas-sabias-que/}{Tarjetas ?`Sab\'{\i }as que?}}{15}{subsection.1.10}%
+\contentsline {subsection}{\numberline {1.11}Papiroflexia }{16}{subsection.1.11}%
+\contentsline {subsection}{\numberline {1.12}\href {http://marzomates.webs.ull.es/papiroflexia/}{Talleres de papiroflexia matem\'{a}tica}}{17}{subsection.1.12}%
+\contentsline {subsection}{\numberline {1.13}\href {http://marzomates.webs.ull.es/papiroproblemas/}{Papiroproblemas}}{17}{subsection.1.13}%
+\contentsline {subsection}{\numberline {1.14}\href {http://marzomates.webs.ull.es/material-3d/}{Material 3D} y \href {http://marzomates.webs.ull.es/mathcitymap/}{MathCityMap}}{18}{subsection.1.14}%
+\contentsline {subsection}{\numberline {1.15}\href {http://marzomates.webs.ull.es/escape-rooms/}{Escape Rooms}}{19}{subsection.1.15}%
+\contentsline {subsection}{\numberline {1.16}Sostenibilidad y matem\'{a}ticas }{20}{subsection.1.16}%
+\contentsline {subsubsection}{\numberline {1.16.1}Consumo de agua}{20}{subsubsection.1.16.1}%
+\contentsline {subsubsection}{\numberline {1.16.2}\href {http://marzomates.webs.ull.es/matematicas-y-sostenibilidad/}{Tratamiento de residuos}}{21}{subsubsection.1.16.2}%
+\contentsline {subsection}{\numberline {1.17}Exposici\'{o}n de fotograf\'{\i }a y concurso escolar}{22}{subsection.1.17}%
+\contentsline {subsection}{\numberline {1.18}Conferencias, mon\'{o}logos y talleres}{23}{subsection.1.18}%
+\contentsline {section}{\numberline {2}Art\IeC {\'\i }culo de la Comisi\'on Cient\IeC {\'\i }fica de la RSME sobre el factor de impacto de las revistas en los procesos de evaluaci\'on}{24}{section.2}%
+\contentsline {section}{\numberline {3}\href {https://cedya2020.es}{XXVI CEDYA / XVI CMA Gij\'on}}{25}{section.3}%
+\contentsline {section}{\numberline {4}Obituario: Ireneo Peral Alonso\tmspace -\thinmuskip {.1667em}\footnotemark {}}{28}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Estelas en el mar: recordando a Ireneo Peral (1946--2021)}{28}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Ireneo Peral y el renacer de las matem\'aticas en Espa\~na}{43}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Ireneo Peral en la memoria}{46}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}\guillemotleft Per Ireneo\guillemotright }{47}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Ireneo Peral: mi hermano mayor}{48}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Anuncios}{51}{section.5}%
+\babel@toc {french}{}
+\contentsline {subsection}{\numberline {5.1}Journ\'ee scientifique du groupe SMAI-SIGMA, Mardi 19 Octobre 2021}{51}{subsection.5.1}%
+\babel@toc {english}{}
+\contentsline {subsection}{\numberline {5.2}New Bridges between Mathematics and Data Science}{52}{subsection.5.2}%
+\babel@toc {spanish}{}
+\contentsline {subsection}{\numberline {5.3}Non-Linear Analysis and Control Theory}{53}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Four full professorships - Open topic in Data Science}{54}{subsection.5.4}%
+\babel@toc {english}{}
+\contentsline {subsection}{\numberline {5.5}27th Edition of the International Conference on Transport Theory}{55}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Actividades del Instituto de Matem\'aticas de la Universidad de Sevilla, IMUS}{56}{subsection.5.6}%
+\babel@toc {english}{}
+\contentsline {subsection}{\numberline {5.7}Basque Center for Applied Mathematics: Severo Ochoa Course program}{57}{subsection.5.7}%
+\contentsline {subsubsection}{\numberline {5.7.1}Course 1}{57}{subsubsection.5.7.1}%
+\contentsline {subsubsection}{\numberline {5.7.2}Course 2}{57}{subsubsection.5.7.2}%
+\contentsline {subsubsection}{\numberline {5.7.3}Course 3}{57}{subsubsection.5.7.3}%
+\babel@toc {spanish}{}
+\contentsline {subsection}{\numberline {5.8}Nuevo volumen de la serie SEMA-SIMAI: \textit {Lecture Notes of the XVIII Jacques-Louis Lions Spanish-French School}}{58}{subsection.5.8}%
+\contentsline {section}{\numberline {6}SEMA \textit {Journal}}{59}{section.6}%
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {7}Socios institucionales}{60}{section.7}%

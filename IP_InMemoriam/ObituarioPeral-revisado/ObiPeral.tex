@@ -1,0 +1,138 @@
+%% !TEX encoding = UTF-8 Unicode
+%
+%\documentclass{gaceta}
+%
+%%---------------------
+%% La Gaceta se har\'a con esto activado,
+%% pero no hace falta ahora si no quieres:
+%\usepackage[T1]{fontenc}
+%\usepackage{lmodern}
+%
+%% Puedes usar esto (u otra codificaci\'on) si quieres:
+%\usepackage[utf8]{inputenc}
+%\usepackage[spanish]{babel}
+%\decimalpoint
+%%---------------------
+%
+%%---------------------
+%% Esto ya lo carga el estilo de La Gaceta:
+%%\usepackage{amsmath, amsthm, amssymb}
+%%\usepackage{url} % <-- Para p\'aginas web o similar: \url{...}
+%%---------------------
+%
+%%---------------------
+%% Carga esto para gr\'aficos si lo necesitas:
+%%\usepackage{graphicx}
+%%\usepackage{wrapfig}
+%%\usepackage{tikz}
+%%---------------------
+%
+%%%%%%%%% PARA REVISAR %%%%%%%
+%
+%%\usepackage{color}
+%%\newcommand{\rojo}[1]{\textcolor{red}{#1}}
+%%\newcommand{\azul}[1]{\textcolor{blue}{#1}}
+%
+%%---------------------
+%% Distancia extra entre párrafos:
+%% article: \parskip=0.0pt plus 1.0pt
+%% gaceta: \parskip=0.5pt plus 1.0pt minus 0.5pt
+%% Se puede mover un poquito:
+%%\parskip=0.75pt plus 1.5pt minus 0.75pt
+%%\clubpenalty=1000 % Default = 150 % Gaceta = 225
+%%\widowpenalty=1000 % Default = 150 % Gaceta = 225
+%%---------------------
+%
+%
+%%---------------------
+%% <<< ESTO SE AJUSTAR\'A AL EDITAR CADA N\'UMERO DE LA GACETA >>>
+%%\provisional
+%\setcounter{page}{10001}
+%\journame{La Gaceta de la RSME}
+%\yearofpublication{2021}
+%\volume{24}
+%\issuenumber{3}
+%%---------------------
+%
+%%---------------------
+%% Deja esto as\'{\i}:
+%%\belongstopart{Art\'{\i}culos}
+%%\belongstopart{Secciones}
+%%\belongstopart{Noticias de la Sociedad}
+%\belongstopart{Actualidad}
+%%\nopart
+%%---------------------
+%
+%% Distancia extra entre p\'arrafos:
+%%\parskip=0.0pt plus 1.0pt % Default article
+%%\parskip=0.5pt plus 1.0pt minus 0.5pt % Default gaceta
+%% Lo aumentamos ligeramente para conseguir buenos cortes
+%% de página si se necesita:
+%%\parskip=1.0pt plus 1.0pt minus 0.5pt
+%%\parskip=1.25pt plus 1.0pt minus 0.75pt
+%%\parskip=1.5pt plus 1.0pt minus 1.0pt
+%%\widowpenalty=1000
+%%\clubpenalty=1000
+%
+%%---------------------
+%% En caso de que el art\'{\i}culo sea de una secci\'on fija,
+%% rell\'enalo con el nombre de la secci\'on y su responsable
+%% (o no hagas nada si tienes dudas).
+%\supertitle{Ireneo Peral (1946--2021), in memoriam}
+%\noeditor
+%%---------------------
+%
+%%---------------------
+%% Opcional:
+%%\shorttitle{}
+%%---------------------
+%
+%%---------------------------
+%\begin{document}
+%%---------------------------
+%
+%%---------------------
+%\makesupertitle
+%%---------------------
+%
+%
+%%\begin{explanation}
+%%Elias M. Stein falleció el 23 de diciembre de 2018. Fue una de las figuras más importantes del Análisis Armónico de las últimas décadas, tanto por su investigación como por el papel que ejerció entre los investigadores de este campo. Recopilamos los testimonios de siete analistas sobre su persona y su obra.
+%%\end{explanation}
+
+%Paco -> Boletín
+\section{Obituario: Ireneo Peral Alonso\!\protect\footnotemark{}}
+
+\footnotetext{NE: Los art\'{\i}culos siguientes, dedicados a la figura del profesor Ireneo Peral Alonso, han sido publicados simult\'aneamente en el volumen~24, n\'umero~3 de \textsc{La Gaceta} de la RSME. Desde estas l\'{\i}neas, queremos agradecer a todos sus autores, as\'{\i} como a los editores de La Gaceta y al presidente de la RSME, el haber permitido la reproducci\'on de los mismos en el presente Bolet\'{\i}n.}
+%
+\input{./IP_InMemoriam/ObituarioPeral-revisado/Peral-A-GA-P-A.tex} 
+
+%\separation
+
+\input{./IP_InMemoriam/ObituarioPeral-revisado/Peral-Meyer2.tex} 
+%
+%\separation
+%
+%% ESTO NO ARREGLA QUE LA FIRMA DE EUGENIO SE SALGA
+%%\newpage 
+%
+\input{./IP_InMemoriam/ObituarioPeral-revisado/Peral-Caffarelli.tex} 
+%
+%\separation
+%
+
+\input{./IP_InMemoriam/ObituarioPeral-revisado/Peral-Boccardo.tex} 
+%
+%
+%\separation
+%
+\pagebreak
+\input{./IP_InMemoriam/ObituarioPeral-revisado/Peral-Juan_Carlos.tex} 
+%
+%% No cargo hyperref, no hace falta
+%%\phantomsection
+%
+%%---------------------
+%\end{document}
+%%---------------------
+
